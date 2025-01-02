@@ -71,6 +71,10 @@
             "path": "./typescript/packages/plugins/jupiter"
         },
         {
+            "name": "[Plugin] ♏︎ jsonrpc",
+            "path": "./typescript/packages/plugins/jsonrpc"
+        },
+        {
             "name": "[Plugin] ⛽️ pumpfun",
             "path": "./typescript/packages/plugins/pumpfun"
         },
@@ -103,12 +107,20 @@
             "path": "./typescript/packages/plugins/renzo"
         },
         {
+            "name": "[Plugin] 🗿 ironclad",
+            "path": "./typescript/packages/plugins/ironclad"
+        },
+        {
             "name": "[Plugin] 🦄 uniswap",
             "path": "./typescript/packages/plugins/uniswap"
         },
         {
             "name": "[Plugin] ⛽️ opensea",
             "path": "./typescript/packages/plugins/opensea"
+        },
+        {
+            "name": "[Plugin] 🌍 zerodev-global-address",
+            "path": "./typescript/packages/plugins/zerodev-global-address"
         },
         // Wallets
         {
